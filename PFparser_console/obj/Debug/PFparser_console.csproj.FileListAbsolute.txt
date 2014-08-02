@@ -1,0 +1,6 @@
+c:\users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\bin\Debug\PFparser_console.exe.config
+c:\users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\bin\Debug\PFparser_console.exe
+c:\users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\bin\Debug\PFparser_console.pdb
+c:\users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\obj\Debug\PFparser_console.exe
+c:\users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\obj\Debug\PFparser_console.pdb
+c:\users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\obj\Debug\PFparser_console.csprojResolveAssemblyReference.cache

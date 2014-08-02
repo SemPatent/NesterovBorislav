@@ -1,0 +1,30 @@
+1. A method for operating an engine, comprising:supplying an amount of fuel from a fuel vapor storage canister to a cylinder; andadjusting a number of fuel pulses supplied to the cylinder via a fuel injector during a cycle of the cylinder in response to the amount of fuel supplied to the cylinder during the cycle of the cylinder from the fuel vapor storage canister.
+    2. The method of claim 1, where the amount of fuel is directly injected to the cylinder, and where a pulse width of at least one fuel pulse supplied to the cylinder is reduced as the amount of fuel supplied to the cylinder from the fuel vapor storage canister increases.
+    3. The method of claim 1, where the number of fuel pulses supplied to the cylinder are supplied during an intake stroke of the cylinder.
+    4. The method of claim 1, where the number of fuel pulses supplied to the cylinder are supplied during an intake stroke and a compression stroke of the cylinder.
+    5. The method of claim 1, further comprising limiting the amount of fuel supplied from the fuel vapor storage canister to the cylinder to maintain a minimum number of fuel pulses supplied to the cylinder via a fuel injector.
+    6. The method of claim 1, where the number of fuel pulses supplied to the cylinder is further based on an engine torque request.
+    7. A method for operating an engine, comprising:supplying an amount of fuel from a fuel vapor storage canister to a cylinder; andadjusting a number of fuel pulses supplied to the cylinder via a fuel injector during a cylinder cycle in response to the amount of fuel supplied to the cylinder from the fuel vapor storage canister during the cylinder cycle and a minimum pulse width of the fuel injector.
+    8. The method of claim 7, where the minimum pulse width of the fuel injector is a fuel pulse width where a substantially repeatable minimum amount of fuel is delivered via the fuel injector.
+    9. The method of claim 7, where the number of fuel pulses supplied to the cylinder is further based on a minimum fuel injector off time.
+    10. The method of claim 7, where the number of fuel pulses supplied to the cylinder is further based on an engine torque request.
+    11. The method of claim 7, where the number of fuel pulses supplied to the cylinder is further based on an amount of fuel delivered to the cylinder when the fuel injector is operated at the minimum pulse width.
+    12. The method of claim 7, where the number of fuel pulses are supplied to the cylinder are supplied during an intake stroke of the cylinder.
+    13. The method of claim 7, where at least one fuel pulse supplied by the fuel injector during the cylinder cycle is supplied during a compression stroke of the cylinder.
+    14. The method of claim 7, where the amount of fuel supplied from the fuel vapor storage canister to the cylinder is adjusted via adjusting a duty cycle supplied to a purge control valve.
+    15. A system for controlling an engine, comprising:an engine;a fuel vapor storage canister;a fuel injector supplying fuel to a cylinder of the engine;a controller including instructions for injecting fuel to the cylinder in a number of fuel pulses during a cycle of the cylinder, the controller including further instructions to supply fuel to the cylinder via the fuel vapor storage canister, the controller including further instructions to adjust the number of fuel pulses during a cylinder cycle in response to an amount of fuel delivered when the fuel injector is operated at a minimum pulse width.
+    16. The system of claim 15, further comprising additional instructions to maximize the number of fuel pulses during the cycle of the cylinder.
+    17. The system of claim 15, further comprising an air intake system supplying air to cylinders of the engine, and where the fuel vapor storage canister is in communication with the air intake system.
+    18. The system of claim 17, further comprising a fuel vapor purge valve, and where the controller includes further instructions for adjusting a duty cycle of the fuel vapor purge valve to adjust flow of fuel vapors to the cylinder.
+    19. The system of claim 15, further comprising additional instructions to decrease a pulse width of at least one fuel pulse in response to an amount of fuel supplied to the cylinder via the fuel vapor storage canister.
+    20. The system of claim 19, further comprising additional instructions for decreasing the number of fuel pulses supplied to the cylinder when at least one fuel pulse supplied to the cylinder is a minimum pulse width of the fuel injector.
+
+                            
+                        
+                    
+
+                    
+                
+            
+        
+    

@@ -1,0 +1,25 @@
+1. Method for producing liquid CO2 of combustion flue gases wherein the flue gas (3) is compressed in a first compressor (1), subsequently cooled in a first cooler (5) and partially condensed in at least two separation stages (9, 21), wherein the at least two separation stages (9, 21) are cooled by expanded offgas (23) and expanded liquid CO2 (3.1, 3.3), and wherein the first cooler (5) is supplied with chilled water from the first separation stage. (c. f. figure 1) .
+    2. Method for producing liquid CO2 of combustion flue gases wherein the flue gas (3) is compressed in a first compressor (1), subsequently cooled in a first cooler (5) and partially condensed in at least two separation stages (9, 21), wherein the at least two separation stages (9, 21) are cooled by expanded offgas (23) and expanded liquid CO2 (3.1, 3.3), and wherein the second separation stage (21) comprises a second heat exchanger (17) and a CO2 stripper (37), wherein a stream of liquid CO2 (3.5) from the first separation stage (9) enters the CO2 stripper (37) directly and wherein a CO2 stream (3.2) from the first separation stage (9) enters the CO2 stripper (37) via the second heat exchanger (17). (cf. figure 2)
+    3. Method according to claim 1 or 2, characterized in, that the first separation stage (9) comprises a first heat exchanger (11) and a first separator drum (13) and wherein the first heat exchanger (11) is cooled with expanded CO2 (3.1) from the first separator drum (13). 
+    4. Method according to claim 1 or 3, characterized in, that the second separation stage (21) comprises a second heat exchanger (17) and a second separator drum (19) and wherein the second heat exchanger (17) is cooled with expanded CO2 (3.3) from the second separator drum (19). (cf. figure 1)
+    5. Method according to claim 1, 3 or 4, characterized in, that the second separation stage (21) comprises a second heat exchanger (17) and a CO2 stripper (37), that a stream of liquid CO2 (3.5) from the first separation stage (9) enters the CO2 stripper (37) directly and that a CO2 stream (3.2) from the first separation stage (9) enters the CO2 stripper (37) via the second heat exchanger (17). (cf. figure 2)
+    6. Method according to one of the claims 2 to 6, characterized in, that the first cooler (5) is supplied with chilled water from the first separation stage.
+    7. Method according to one of the claims 2, 5 or 6, characterized in, that the liquid CO2 in the CO2 stripper (37) is boiled by a reboiler (32) and that from the top of the CO2 stripper (37) offgas (23) is extracted, expanded in a pressure control valve (15.2) and used in the separation stages (9, 21) for cooling purposes. (c. f. figures 1 to 5)
+    8. Method according to one of the foregoing claims, characterized in, that the liquid CO2 is expanded to a first pressure level (flag 12) and to a second pressure level (flag 11) and fed to a first or second stage of a second compressor (25) after having passed at least one of the separation stages (9, 21). (c. f. figures 1 to 5) 
+    9. Method according to one of the claims 7 or 8, characterized in, that the reboiler (32) is supplied with heat from the second compressor (25), preferably from a second stage of the second compressor (25). (c. f. figures 2 to 5)
+    10. Method according to one of the claims 7 to 9, characterized in, that the liquid CO2 from the reboiler (32) and the CO2 stripper (37) are collected in a buffer drum (39). (c. f. figures 2 to 5)
+    11. Method according to claim 10, characterized in, that the at least two separation stages (9, 21) are supplied with liquid CO2 from the buffer drum (39). (c. f. figures 2 to 5)
+    12. Method according to claim 10 or 11, characterized in, that a part of the liquid CO2 is extracted from the buffer drum (39) or the CO2 stripper (37) and delivered by a second product pump (41) to the delivery side of the second compressor (25 or the suction side of a first product pump (27) (c. f. figure 3 and 5)
+    13. Method according to one of the foregoing claims, characterized in, that the flue gas is compressed in a first compressor (1), cooled in a first cooler (5) and/or dried in a drier (7) before entering the first separation stage (9).
+    14. Method according to one of the foregoing claims, characterized in, that offgas (23) from the last separation stage (21) is expanded to approximately 17 bar and resulting in a temperature of approximately - 54 [deg.]C before entering a heat exchanger (17) of the last separation stage (21). 
+    15. Method according to one of the foregoing claims, characterized in, that the offgas (23) is superheated in a superheater (29) after having passed all separation stages (21, 9) and expanded in at least one expansion machine (31, 31.1, 31.2) and subsequently fed again to the heat exchangers (17) of the last separation stage (21). (c. f. figures 1, 2, 4 and 5)
+
+                            
+                        
+                    
+
+                    
+                
+            
+        
+    

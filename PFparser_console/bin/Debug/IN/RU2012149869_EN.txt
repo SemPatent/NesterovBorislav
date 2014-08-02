@@ -1,0 +1,30 @@
+ 1. A clamping device that is mountable onto a bedrail, the clamping device comprising:a body;a foot;a mouth;a biasing member coupled to at least one of the body and the foot;an actuating member coupled to the biasing member configured to transmit input force to the mouth through the biasing member wherein the biasing member automatically adjusts a distance between said foot and said mouth to closely match dimensions of said bedrail,wherein a protrusion extends from the body and towards the foot, the protrusion defining an outer boundary of the mouth, andwherein the protrusion engages the bedrail and fixes the clamp onto the bedrail by securing the rail between the protrusion and the mouth.
+    2. The clamping device according to claim 1, wherein the body further comprises a first jaw and the foot comprises a second jaw opposing the first jaw.
+    3. The clamping device according to claim 2, wherein the protrusion is a first protrusion extending from the first jaw and the second jaw includes a second protrusion, the first and second protrusions extend toward each other.
+    4. The clamping device according to claim 3, wherein the first protrusion includes a first planar surface opposing a first planar surface of the second protrusion, and wherein at least one of the first and second protrusions includes a second surface extending oblique relative to the first planar surface.
+    5. The clamping device according to claim 4, wherein the second surface is one of flat, jagged, sinusoidal curve, rectangular wave, or toothed.
+    6. The clamping device according to claim 4, wherein the second surface directly engages an outer surface of the rail when the actuating member is moved in a first direction.
+    7. The clamping device according to claim 6, wherein the first direction is one of orthogonal relative to the bedrail, and parallel relative to the bedrail.
+    8. The clamping device according to claim 4, wherein the second surface includes a non-slip material provided thereon.
+    9. The clamping device according to claim 1, wherein the mouth defines one of a J shape or C shape opening.
+    10. The clamping device according to claim 1, wherein the biasing member is one of a spring, a coil, an elastic member, a flexible beam, and a gas charged spring.
+    11. The clamping device according to claim 1, further comprising a rod coupling the actuating member to the biasing member, and wherein the actuating member is also coupled to the body.
+    12. The clamping device according to claim 11, wherein the foot has one of a C-shape, J-shape, L-shape and V-shape.
+    13. The clamping device according to claim 12, wherein an outer surface of the foot that engages the bedrail includes a non-slip material provided thereon.
+    14. The clamping device according to claim 1, wherein the actuating member is coupled to the biasing member by at least a pair of linked arms.
+    15. The clamping device according to claim 1, wherein the actuating member includes a cam mechanism slidably coupled to the biasing member.
+    16. The clamping device according to claim 15, further comprising an arm extending from a first end of the biasing member.
+    17. The clamping device according to claim 16, wherein the biasing member is U-shaped.
+    18. The clamping device according to claim 17, wherein the foot comprises the biasing member integrated therein and an angled projection extending from a second end of the U-shaped biasing member, the angled projection engaging the bedrail when the cam mechanism is slidably rotated along the arm extending from the first end of the biasing member.
+    19. The clamping device according to claim 1, wherein the actuating member is one of a lever, a handle or an arm.
+    20. A method of mounting a device to a bedrail including:placing a clamping mechanism such that a mouth portion of the clamping mechanism surrounds at least a portion of the bedrail and that the surrounded portion is between a foot of the clamping mechanism and a protrusion that extends from the body and towards the foot of the clamping mechanism;actuating remotely with a telemanipulation device an actuating member to engage the protrusion to the bedrail thereby fixing the clamping mechanism onto the bedrail by securing the bedrail between the protrusion and the mouth of the clamping mechanism; andfixing the device to the clamping mechanism;
+
+                            
+                        
+                    
+
+                    
+                
+            
+        
+    

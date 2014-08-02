@@ -1,0 +1,26 @@
+1. A turbine system (100), comprising:one or more turbine blades (104);a turbine casing (106,304) encompassing the one or more turbine blades (104); anda thermoelectric element (110,200,306) disposed at least partially about the turbine casing (106,304), wherein the thermoelectric element (110,200,306) expands or contracts the turbine casing (106,304) by heating or cooling at least a portion of the turbine casing (106,304) thereby adjusting a clearance (108) between the one or more turbine blades (104) and the turbine casing (106,304).
+    2. The system of Claim 1, wherein the thermoelectric element (200) comprises a Peltier element disposed between a cold sink (212) and a heat sink (210).
+    3. The system of Claim 2, wherein a voltage is applied to the Peltier element to control heat transfer between the cold sink (212) and a heat sink (210).
+    4. The system of Claim 3, wherein the cold sink (212) and the heat sink (210) are dependent on the polarity of the applied voltage to the Peltier element.
+    5. The system of any of Claims 2 to 4, wherein the cold sink (212) and the heat sink (210) comprise ceramic plates.
+    6. The system of any of Claims 2 to 5, wherein the heat sink (111) is in communication with a ventilation system (308).
+    7. The system of any preceding Claim, wherein the clearance (108) between the one or more turbine blades (104) and the turbine casing (106) is reduced to increase efficiency during operation. 
+    8. The system of any preceding Claim, wherein the clearance (108) between the one or more turbine blades (104) and the turbine casing (106) is increased to increase the efficiency and the speed of startup.
+    9. The system of any preceding Claim, wherein the thermoelectric element is disposed circumferentially about at least a portion of the turbine casing (304) in line with the one or more turbine blades.
+    10. The turbine system of any preceding claim, further comprising:a controller (112) in communication with the at least one thermoelectric element (110,306), the controller (112) comprising:a computer processor (116); anda memory (114) in communication with the computer processor (116) operable to store computer-executable instructions operable to:control the expansion or contraction of the turbine casing (106,304) by heating or cooling at least a portion of the turbine casing (106,304) with the at least one thermoelectric element (110,200,306).
+    11. A method for adjusting clearances (108) in a turbine, the turbine comprising a turbine casing (106,304) encompassing one or more turbine blades (104), the method comprising:positioning one or more thermoelectric elements (110,200,306) at least partially about the turbine casing (106,304); andcontrolling the expansion or contraction of the turbine casing (106,304) by heating or cooling at least a portion of the turbine casing (106,304) with the one or more thermoelectric elements (110,200,306), wherein a clearance (108) between the one or more turbine blades (104) and the turbine casing (106,304) is adjusted. 
+    12. The method of Claim 10, wherein the thermoelectric element (200) comprises a Peltier element disposed between a cold sink (212) and a heat sink (210).
+    13. The method of Claim 10 or 11, wherein a voltage is applied to the Peltier element to control heat transfer between the cold sink (212) and a heat sink (210).
+    14. The method of Claim 12, wherein the cold sink (212) and the heat sink (210) are dependent on the polarity of the applied voltage to the Peltier element.
+    15. The method of any of Claims 12 to 14, wherein the cold sink (212) and the heat sink (210) comprise ceramic plates.
+    16. The method of any of Claims 12 to 15, wherein the heat or sink (111) is in communication with a ventilation system (308).
+
+                            
+                        
+                    
+
+                    
+                
+            
+        
+    

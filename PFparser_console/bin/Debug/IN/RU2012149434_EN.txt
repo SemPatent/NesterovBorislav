@@ -1,0 +1,55 @@
+ 1. A method of treating a carbonaceous material, comprising:contacting a carbonaceous material with one or more solubilization chemicals selected from a carboxylic acid of up to 4 carbon atoms or a benzoic acid, or a salt or ester of any of these acids, thereby solubilizing at least a portion of the carbonaceous material.
+    2. The method of claim 1, wherein the carbonaceous material is coal.
+    3. The method of claim 2, wherein the coal is selected from the group consisting of lignite, brown coal, sub-bituminous coal, bituminous coal, anthracite, and combinations thereof.
+    4. The method of claim 1, wherein said contacting is carried out at a temperature of 0 to 300[deg.] C.
+    5. The method of claim 1, further comprising treating the at least a portion of the carbonaceous materials with one or more bioconversion agents during or after said contacting with said member.
+    6. The method of claim 5, further comprising adding nutrients, vitamins, minerals, and metal catalysts before or during the contacting.
+    7. The method of claim 5, wherein the bioconversion agent is at least one member selected from the group consisting of facultative anaerobes, acetogens, methanogens and fungi.
+    8. The method of claim 1, wherein said contacting further includes contacting with a solvent selected from the group consisting of phenanthrene, chrysene, fluoranthene and pyrene, a nitrogenous ring aromatic, anthracene, fluorene and combinations of any of these.
+    9. The method of claim 1, wherein said contacting further includes contacting with a solvent selected from the group consisting of phosphorous acid, phosphoric acid, a phosphite ester, triethylamine, quinuclidine pyridine, acetonitrile, diethylether, acetone, dimethyl acetamide, dimethyl sulfoxide, tetrahydrothiophene, trimethylphosphine, HNO3, EDTA, sodium salicylate, triethanolamine, 1,10-o-phenanthroline, sodium acetate, ammonium tartrate, ammonium oxalate, ammonium citrate tribasic, 2,3-dihydroxylbenzoic acid, 2,4-dihydroxylbenzoic acid, 3,4-dihydroxylbenzoic acid, 3,5-dihydroxylbenzoic acid, THF-tetrahydrofuran.
+    10. The method of claim 1, wherein said solubilization chemical is an ester of acetic acid.
+    11. The method of claim 10, wherein said ester of acetic acid is a member selected from the group consisting of methyl acetate, ethyl acetate, propyl acetate, isopropyl acetate, n-butyl acetate, isobutyl acetate, amyl acetate, isoamyl acetate, hexyl acetate, heptyl acetate, octyl acetate, nonanyl acetate, decyl acetate, undecyl acetate, lauryl acetate, tridecyl acetate, myristyl acetate, pentadecyl acetate, cetyl acetate, heptadecyl acetate, stearyl acetate, behenyl acetate, hexacosyl acetate, triacontyl acetate, benzyl acetate, bornyl acetate, isobornyl acetate and cyclohexyl acetate.
+    12. A method of solubilizing a carbonaceous material in a subterranean formation, comprising introducing into a subterranean carbonaceous formation one or more solubilization chemicals selected from a peroxide, a hydroxide, and an ester or salt of a C1-C4 carboxylic acid or benzoic acid, thereby solubilizing at least a portion of the carbonaceous material in said formation.
+    13. The method of claim 12, wherein said chemicals are introduced into said formation by one or more conduits or wellbores, extending from the surface to a carbonaceous subterranean deposit.
+    14. The method of claim 12, wherein said chemicals are injected sequentially, each said injection being separated by a volume of water.
+    15. The method of claim 14, wherein said chemicals are injected in the order peroxide, hydroxide and ester or salt of a C1-C4 carboxylic acid or benzoic acid.
+    16. The method of claim 12, further comprising recovering the solubilized carbonaceous material.
+    17. The method of claim 16, further comprising the step of contacting said recovered solubilized carbonaceous material with an anaerobic fermentation system for the bioconversion of said solubilized carbonaceous material into a gas.
+    18. The method of claim 15, further comprising recovering the solubilized carbonaceous material.
+    19. The method of claim 18, further comprising the step of contacting said recovered solubilized carbonaceous material with an anaerobic fermentation system for the bioconversion of said solubilized carbonaceous material into a gas.
+    20. The method of claim 12, wherein said subterranean formation is a coalseam, a shale, an oil sand or a heavy oil deposit.
+    21. The method of claim 12, wherein said hydroxide is a hydroxide of sodium, potassium, aluminum, calcium, magnesium, ammonium, copper, or iron.
+    22. The method of claim 12, wherein said chemicals are hydrogen peroxide, sodium hydroxide and ethyl acetate.
+    23. The method of claim 12, wherein said conduits or wellbores are arranged in an array of patterns or configurations to displace injected chemicals into the subterranean formation and recover solubilized carbonaceous material.
+    24. The method of claim 17, wherein the solubilized carbonaceous material is introduced into an anaerobic fermentation system or systems of varying configuration selected from one-stage and two-stage fermentation systems.
+    25. The method according to claim 12, wherein the solubilization chemicals are introduced into the subterranean formation at a temperature of 10[deg.] C. to 250[deg.] C.
+    26. The method of claim 12, wherein the solubilizing chemicals are introduced into the subterranean formation under a pressure of 0 psig to 5000 psig per foot of depth from the surface to the depth of the subterranean formation.
+    27. The method of claim 12, wherein the subterranean formation is sonicated before or during introduction of said chemicals of step (b).
+    28. The method of claim 12, wherein said solubilization chemical is an acetate.
+    29. The method of claim 28, wherein said acetate is a member selected from the group consisting of methyl acetate, ethyl acetate, propyl acetate, isopropyl acetate, n-butyl acetate, isobutyl acetate, amyl acetate, isoamyl acetate, hexyl acetate, heptyl acetate, octyl acetate, nonanyl acetate, decyl acetate, undecyl acetate, lauryl acetate, tridecyl acetate, myristyl acetate, pentadecyl acetate, cetyl acetate, heptadecyl acetate, stearyl acetate, behenyl acetate, hexacosyl acetate, triacontyl acetate, benzyl acetate, bornyl acetate, isobornyl acetate and cyclohexyl acetate.
+    30. The method of claim 12, wherein the carbonaceous material is coal.
+    31. The method of claim 30, wherein the coal is selected from the group consisting of lignite, brown coal, sub-bituminous coal, bituminous coal, anthracite, and combinations thereof.
+    32. The method of claim 12, wherein said contacting further includes contacting with a solvent selected from the group consisting of phenanthrene, chrysene, fluoranthene and pyrene, a nitrogenous ring aromatic, anthracene, fluorene and combinations of any of these.
+    33. The method of claim 12, wherein said contacting further includes contacting with a solvent selected from the group consisting of phosphorous acid, phosphoric acid, a phosphite ester, triethylamine, quinuclidine HCl, pyridine, acetonitrile, diethylether, acetone, dimethyl acetamide, dimethyl sulfoxide, tetrahydrothiophene, trimethylphosphine, HNO3, EDTA, sodium salicylate, triethanolamine, 1,10-o-phenanthroline, sodium acetate, ammonium tartrate, ammonium oxalate, ammonium citrate tribasic, 2,3-dihydroxylbenzoic acid, 2,4-dihydroxylbenzoic acid, 3,4-dihydroxylbenzoic acid, 3,5-dihydroxylbenzoic acid, THF-tetrahydrofuran.
+    34. The method of claim 12, further comprising the step of contacting said solubilized carbonaceous material in situ with an anaerobic fermentation system for bioconversion of said solubilized carbonaceous material into a gas.
+    35. A bioconversion method comprising:contacting a solubilized carbonaceous material with a bioconversion agent to bioconvert said material.
+    36. The method of claim 35, wherein the carbonaceous material is coal.
+    37. The method of claim 36, wherein the coal is selected from the group consisting of lignite, brown coal, sub-bituminous coal, bituminous coal, anthracite, and combinations thereof.
+    38. The method of claim 35, wherein said contacting occurs in situ.
+    39. The method of claim 35, wherein said contacting occurs ex situ.
+    40. A method of treating a carbonaceous material, comprising:contacting a carbonaceous material with one or more chemicals selected from a peroxide, a hydroxide, and an ester of a C1-C4 carboxylic acid or a benzoic acid, thereby solubilizing at least a portion of the carbonaceous material.
+    41. The method of claim 40, wherein the carbonaceous material is coal.
+    42. The method of claim 40, wherein the coal is selected from the group consisting of lignite, brown coal, sub-bituminous coal, bituminous coal, anthracite, and combinations thereof.
+    43. A composition comprising the solubilized carbonaceous material formed by contacting a carbonaceous material with one or more chemicals selected from a peroxide, a hydroxide, and an ester of a C1-C4 carboxylic acid or a benzoic acid, thereby solubilizing at least a portion of the carbonaceous material.
+    44. The composition of claim 43, wherein the carbonaceous material is coal.
+    45. The composition of claim 43, wherein the coal is selected from the group consisting of lignite, brown coal, sub-bituminous coal, bituminous coal, anthracite, and combinations thereof.
+
+                            
+                        
+                    
+
+                    
+                
+            
+        
+    

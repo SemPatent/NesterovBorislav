@@ -1,0 +1,10 @@
+ 1. A method for providing voice stream augmented note taking, the method comprising:recording an audio stream associated with at least one speaker;converting the audio stream into at least one text chunk;receiving at least one text entry from a user;determining whether the at least one text entry from the user is associated with the at least one text chunk; andin response to determining that the at least one text entry from the user is associated with the at least one text chunk, displaying the at least one text chunk to the user as a suggestion.
+    2. The method of claim 1, wherein converting the audio stream into at least one text chunk comprises:performing a speech to text conversion on the audio stream; andidentifying at least one text chunk boundary according to at least one of the following: a phrase boundary, a sentence boundary, and a time boundary.
+    3. The method of claim 1, wherein the at least one text chunk is associated with a timestamp.
+    4. The method of claim 3, wherein the received at least one text entry is associated with an electronic document.
+    5. The method of claim 4, further comprising:receiving a selection of the displayed at least one text chunk from the user; andinserting the displayed at least one text chunk into the electronic document.
+    6. The method of claim 5, further comprising displaying at least one second converted text chunk to the user.
+    7. The method of claim 6, wherein the at least one second converted text chunk comprises a next subsequent text chunk following the at least one text chunk.
+    8. The method of claim 1, further comprising:identifying a plurality of converted text chunks at least partially matching the at least one text entry; anddisplaying the plurality of converted text chunks to the user as a selectable list.
+    9. The method of claim 8, wherein each of the plurality of converted text chunks is associated with a time stamp.
+    10. The method of claim 9, wherein each of the plurality of converted text chunks are displayed in the selectable list in chronological order.

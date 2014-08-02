@@ -1,0 +1,15 @@
+1. A die member for a self-piercing riveting process, the member comprising a die cavity having an axis and a number N of flat sides positioned about the axis, wherein each side lies along a plane including a chord connecting two points along a circle centered on the axis, and wherein an included angle between radii extending from the axis to opposite ends of any chord is equal to 360/N degrees.
+    2. The die member of claim 1 wherein each plane along which an associated side extends is parallel to the axis.
+    3. The die member of claim 1 wherein the die member further comprises a bearing surface, wherein the die cavity has a floor, and wherein each plane along which an associated side extends is perpendicular to a plane defined by the bearing surface and is also perpendicular to a plane defined by cavity floor.
+    4. The die member of claim 1 wherein the die member further comprises a bearing surface, wherein the die cavity has a floor, and wherein a plane along which at least one side of the plurality of sides extends is angled toward the axis in a direction proceeding from the bearing surface toward the floor.
+    5. A die member for a self-piercing riveting process, the die member comprising a die cavity formed in the die member, a perimeter of the cavity being formed by a plurality of sides and a plurality of fillet radii, each end of each side being connected by a fillet radius to an adjacent side at an end of the adjacent side, wherein each radius r has a value within the range 0.25 mm-3.25 mm inclusive.
+    6. The die member of claim 1 wherein the number of cavity sides is within the range of 3-20 inclusive.
+    7. The die member of claim 6 wherein each side has a length, and wherein the lengths of all of the sides are equal.
+    8. The die member of claim 1 wherein the number of cavity sides is equal to twelve.
+    9. The die member of claim 16 wherein the number of cavity sides is within the range of 3-20 inclusive.
+    10. The die member of claim 5 wherein the number of cavity sides is within the range of 3-20 inclusive.
+    11. The die member of claim 5 wherein each of the sides is straight.
+    12. A die member for a self-piercing riveting process, the die member comprising:a bearing surface;a die cavity formed in the bearing surface, the die cavity including a floor and a central axis extending through the floor;a plurality of flat sides extending between the floor and the bearing surface,wherein at least one of the sides is sloped away from the axis in a direction proceeding from the floor toward the bearing surface.
+    13. The die member of claim 12 wherein the number of cavity sides is within the range of 3-20 inclusive.
+    14. The die member of claim 12 wherein the number of straight cavity sides is equal to twelve.
+    15. The die member of claim 12 wherein each of the sides is straight.

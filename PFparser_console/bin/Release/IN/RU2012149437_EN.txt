@@ -1,0 +1,19 @@
+1. A glassware forming machine that includes:a machine section box having an upwardly directed cooling air outlet opening,a mold arm disposed above said section box and movable between mold-open and mold-closed positions,an air manifold carried by said mold arm overlying said section box and said outlet opening for delivering cooling air to at least one glassware mold carried by said mold arm, said manifold having a cooling air inlet opening aligned with said cooling air outlet opening of said section box, anda valve plate mounted on said section box for movement overlying said outlet opening, and having a valve plate opening aligned with said outlet opening,said valve plate being operatively coupled to said mold arm such that position of said valve plate and overlap between said valve plate opening and said outlet opening vary as a function of motion of said mold arm between said mold-closed and mold-open positions.
+    2. The machine set forth in claim 1 wherein said valve plate is operatively coupled to said mold arm by a lost motion coupling such that motion of the mold arm is not imparted to the valve plate during initial motion in the opening and closing directions.
+    3. The machine set forth in claim 2 wherein said lost motion coupling includes a slot in one of said valve plate and said manifold, and a pin on the other of said valve plate and said manifold and disposed in said slot.
+    4. The machine set forth in claim 3 wherein said mold arm is carried for a pivotal motion between said mold-closed and mold-open positions, and wherein said slot is arcuate.
+    5. The machine set forth in claim 1 wherein said manifold includes a pressure plate on an undersurface of said manifold, said air inlet opening being disposed in said pressure plate, and at least one spring urging said pressure plate against said valve plate.
+    6. The machine set forth in claim 5 including a pair of said mold arms, an air manifold carried by each of said mold arms, a pressure plate underlying each of said manifolds and a valve plate underlying each of said pressure plates,said respective mold arms, respective manifolds, respective pressure plates and respective valve plates being mirror images of each other.
+    7. A glassware forming machine that includes a machine section box having a cooling air outlet opening, at least one mold-carrying arm disposed above said section box and movable between mold-open and mold-closed positions, and means for delivering cooling air from said outlet opening to said mold-carrying arm,characterized in that said means includes:a valve plate mounted on said section box to pivot around an axis, said valve plate having a valve plate opening that registers with said outlet opening in said section box,a pressure plate mounted on said mold-carrying arm overlying said valve plate, said pressure plate having a pressure plate opening that registers with said valve plate opening in said valve plate, anda coupling between said valve plate and said pressure plate to pivot said valve plate on said section box as a function of motion of said mold-carrying arm between said mold-open and mold-closed positions.
+    8. The machine set forth in claim 7 wherein said coupling is a lost-motion coupling.
+    9. The machine set forth in claim 8 including at least one spring urging said pressure plate against said valve plate.
+
+                            
+                        
+                    
+
+                    
+                
+            
+        
+    

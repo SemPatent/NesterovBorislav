@@ -1,0 +1,30 @@
+1. An embossing apparatus for applying embossing to a wrapper for a smoking article, the embossing apparatus configured to apply an embossing pattern to the wrapper so as to act to at least partially minimise the reduction, in at least one direction, in the tensile strength of the wrapper resulting from the application of said embossing. 
+     2. The embossing apparatus as claimed in Claim 1, wherein the embossing pattern is applied so as to increase the diffusivity and/or permeability of said wrapper and wherein the embossing pattern is selected such that for a given increase in diffusivity and/or permeability, the embossing pattern minimises an embossing stress and/or strain placed on the wrapper, during application of the embossing pattern, in at least one direction. 
+     3. The embossing apparatus as claimed in Claim 2, wherein application of the embossing pattern is arranged to result in an embossed wrapper having different strength characteristics in different directions. 
+     4. The embossing apparatus as claimed in any preceding claim, further comprising: an embossing roller for applying the embossing to the wrapper; and means for maintaining the embossing roller at a predetermined distance from said wrapper so as to limit the depth of the embossing. 
+     3. The embossing apparatus as claimed in Claim 4, further comprising at least two embossing rollers for applying the embossing to the wrapper running in a longitudinal direction between the at least two rollers, wherein the maintaining means maintains a minimum distance between circumferential surfaces of the at least two embossing rollers. 
+     6. An embossed wrapper for a smoking article, wherein the embossing is applied in a pattern selected such that for a given increase in diffusivity and/or permeability resulting from the embossing, the embossed pattern acts to at least partially minimise the reduction, in at least one direction, in the tensile strength of the wrapper resulting from the application of said embossing. 
+     7. The embossed wrapper as claimed in Claim 6, wherein the embossed pattern is selected to minimise weakness lines running through the embossed region of the wrapper, in a least one direction. 
+     8. The embossed wrapper as claimed in Claim 6 or 7, wherein the embossed pattern comprises an embossed region and a non-embossed region, and a leading edge between the embossed region and the non-embossed region, the leading edge being arranged to be non-perpendicular to a longitudinal direction of the wrapper. 
+     9. The embossed wrapper as claimed in any one of Claims 6 to 8, wherein the embossed pattern comprises a spiral or helical pattern when the wrapper is wrapped around the smoking article. 
+     10. The embossed wrapper as claimed in any one of Claims 6 to 9, wherein the embossed pattern of the wrapper comprises indentations which have no substantially perpendicular edges with respect to a longitudinal direction of the wrapper. 
+     11. The embossed wrapper as claimed in any one of Claims 6 to 10, wherein the embossed pattern of the wrapper comprises indentations of rhomboidal shape which have no substantially perpendicular edges with respect to a longitudinal direction of the wrapper. 
+     12. The embossed wrapper as claimed in Claim 6 to 9, wherein the embossed pattern is formed from an array of indentations in which transversally adjacent indentations are longitudinally offset from each other. 
+     13. An embossing roller for applying an embossing pattern to a wrapper for a smoking article, wherein the embossing roller comprises a plurality of embossing protrusions arranged such that for a given increase in diffusivity and/or permeability of a wrapper embossed using said roller, the embossed protrusions act to at least partially minimise the reduction, in at least one direction, in the tensile strength of the wrapper resulting from the application of said embossing. 
+     14. The embossing roller as claimed in Claim 13, wherein the embossing protrusions are arranged such that applying the embossing roller to the wrapper results in a wrapper as claimed in any one of Claims 6 to 12. 
+     15. A method of embossing a wrapper for a smoking article, the method comprising: applying an embossing pattern to the wrapper so as to act to at least partially minimise the reduction, in at least one direction, in the tensile strength of the wrapper resulting from the application of said embossing. 
+     16. The method of Claim 15, wherein the applying step comprises applying an embossing roller to the wrapper, the method further comprising: maintaining the embossing roller at a predetermined distance from said wrapper so as to limit the depth of the embossing. 
+     17. The method of Claim 15 or 16, wherein the applying step comprises: running a web of wrapper material, in a longitudinal direction, through at least two embossing rollers, and the maintaining step comprises: using a coaxial cammed movement limiter and a mechanical stop to prevent radial movement of at least one of the rollers in at least one direction. 
+     18. A smoking article comprising a rod of smokeable material and a wrapper as claimed in any of Claims 6 to 12. 
+     19. A smoking article substantially as described herein with reference to the accompanying drawings. 
+     20. An embossing apparatus substantially as described herein with reference to the accompanying drawings.
+
+                            
+                        
+                    
+
+                    
+                
+            
+        
+    

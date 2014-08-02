@@ -1,0 +1,24 @@
+ 1. A method of treating a pain condition in a mammal, the method comprising administering to the mammal a serotonin and norepinephrine reuptake inhibitor agent which is 4-[2-(2,4,6-trifluoro-phenoxymethyl)-phenyl]-piperidine or a pharmaceutically acceptable salt thereof and an opioid agonist agent.
+    2. The method of claim 1 wherein the opioid agonist agent is administered at a dose that is lower than a dose administered for treating a pain condition when used alone.
+    3. The method of claim 1 wherein the opioid agonist agent is morphine.
+    4. The method of claim 1 wherein the opioid agonist agent is oxycodone.
+    5. The method of claim 1 wherein the serotonin and norepinephrine reuptake inhibitor agent is 4-[2-(2,4,6-trifluoro-phenoxymethyl)-phenyl]-piperidine hydrochloride.
+    6. The method of claim 1 wherein the pain condition is chronic pain.
+    7. The method of claim 1 wherein the mammal is a human.
+    8. The method of claim 2 wherein the opioid agonist agent is morphine.
+    9. The method of claim 2 wherein the opioid agonist agent is oxycodone.
+    10. The method of claim 2 wherein the serotonin and norepinephrine reuptake inhibitor agent is administered at a dose that is lower than a dose administered for treating a pain condition when used alone.
+    11. The method of claim 2 wherein the serotonin and norepinephrine reuptake inhibitor agent and the opioid agonist agent are administered by different routes of administration.
+    12. A method of producing analgesia in a mammal, the method comprising administering to the mammal a serotonin and norepinephrine reuptake inhibitor agent which is 4-[2-(2,4,6-trifluoro-phenoxymethyl)-phenyl]-piperidine or a pharmaceutically acceptable salt thereof and an opioid agonist agent.
+    13. The method of claim 12 wherein the opioid agonist agent is administered at a dose that is lower than a dose administered for producing analgesia when used alone.
+    14. The method of claim 12 wherein the opioid agonist agent is morphine.
+    15. The method of claim 12 wherein the opioid agonist agent is oxycodone.
+    16. The method of claim 12 wherein the serotonin and norepinephrine reuptake inhibitor agent is 4-[2-(2,4,6-trifluoro-phenoxymethyl)-phenyl]-piperidine hydrochloride.
+    17. The method of claim 12 wherein the mammal is a human.
+    18. The method of claim 13 wherein the serotonin and norepinephrine reuptake inhibitor agent is administered at a dose that is less than a dose administered for producing analgesia when used alone.
+    19. The method of claim 13 wherein the serotonin and norepinephrine reuptake inhibitor agent and the opioid agonist agent are administered by different routes of administration.
+    20. A pharmaceutical composition comprising 4-[2-(2,4,6-trifluoro-phenoxymethyl)-phenyl]-piperidine or a pharmaceutically acceptable salt thereof, an opioid agonist agent, and a pharmaceutically acceptable carrier.
+    21. The pharmaceutical composition of claim 20 wherein the opioid agonist agent is morphine or oxycodone.
+    22. A method of treating a pain condition in a mammal, the method comprising administering to the mammal a serotonin and norepinephrine reuptake inhibitor agent and an opioid agonist agent wherein the opioid agonist agent is administered at a dose that is less than the dose administered for treating a pain condition when used alone and wherein the serotonin and norepinephrine reuptake inhibitor exhibits a ratio of SERT to NET IC50 values determined in an in vitro neurotransmitter uptake assay of between about 2 and about 40.
+    23. The method of claim 22 wherein the opioid agonist agent is morphine or oxycodone.
+    24. The method of claim 23 wherein the serotonin and norepinephrine reuptake inhibitor agent is administered at a dose that is less than a dose administered for treating a pain condition when used alone.
