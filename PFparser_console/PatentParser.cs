@@ -300,7 +300,7 @@ namespace PFparser_console
             string replBuf = @"";
             foreach (Match match in rxf.Matches(outText))
             {
-                Console.WriteLine(match.Groups["cfig"]);
+                //Console.WriteLine(match.Groups["cfig"]);
 
                 patBuf =  sStartDescription + match.Groups["cfig"] + sEndDescription;
                 replBuf =  @" (" + match.Groups["cfig"] + @"). ";

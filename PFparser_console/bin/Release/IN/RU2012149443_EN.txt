@@ -1,4 +1,3 @@
-
     1. A method of operating a network infrastructure entity, the method comprising:sending together a first packet and a second packet, both packets being equal in bit length, to a group of mobile stations, said first packet containing a first message type, a first portion of a second message type and an n-bit length Cyclic Redundancy Check (CRC) portion, said second packet containing a continuation portion of said second message type and a second n-bit length Cyclic Redundancy Check portion.
     2. The method of claim 1, further comprising:sending said first packet and said second packet on a forward shared control channel (F-SCCH).
     3. The method of claim 1, wherein said first message type is a packet data control assignment block (PDCAB), and said second message type is a residual resource allocation (RRA) block.
