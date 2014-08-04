@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1ModelStoreContainer" CdmEntityContainer="Database1Entities1">
+    <EntitySetMapping Name="Sentences">
+      <EntityTypeMapping TypeName="Database1Model.Sentences">
+        <MappingFragment StoreEntitySet="Sentences">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ENSentence" ColumnName="ENSentence" />
+          <ScalarProperty Name="RUSentence" ColumnName="RUSentence" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

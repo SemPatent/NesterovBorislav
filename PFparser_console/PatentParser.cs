@@ -14,6 +14,8 @@ namespace PFparser_console
         //string path_out;
         //string path_cur;
 
+        private static Database1Entities1 db = new Database1Entities1(); // создаем представление БД
+
         /// <summary>
         /// Parses EN and RU files (two) into one output file
         /// </summary>
@@ -160,6 +162,146 @@ namespace PFparser_console
             ;
 
         }
+
+
+
+        
+
+        public static void parseTwoInDB(string enPatentFileName, string ruPatentFileName)
+        {
+            //Read patent files into patent strings
+            string enPatent = System.IO.File.ReadAllText(enPatentFileName);
+            string ruPatent = System.IO.File.ReadAllText(ruPatentFileName, Encoding.UTF8);
+
+            //Clean patent strings from unwanted characters
+            string enPatentCleaned = cleanerEN(enPatent);
+            string ruPatentCleaned = cleanerRU(ruPatent);
+
+
+            #region Form Regular Expression for searching sentences
+
+            string sNamedSentence = @"sent"; // имя в регулярном выражениии (для извлечения информации)
+
+            // Sentence
+            string sEndDescription = @"(\. |\.$)"; // Конечный стринг обрамляющий Description (для извлечения информации)
+
+            // Вспомогательные стринги (для извлечения информации)
+            //string anyThing = @".*?"; // что-то или что угодно, действует до последующей осмысленной конструкции (например до sStartUrl)
+            string Brac = @"(?<"; // открывающая скобка для именованого регулярного выражения
+            string ketS = @">.*?)"; // закрывающая скобка для именованого регулярного выражения
+
+            string regExpr = (Brac + sNamedSentence + ketS) + sEndDescription;
+
+
+            Regex rx = new Regex(regExpr); // создаем экземпляр регулярки
+
+            MatchCollection enMatches = rx.Matches(enPatentCleaned); // извлекаем все строки соответствующие нашему регулярному выражению
+            MatchCollection ruMatches = rx.Matches(ruPatentCleaned); // извлекаем все строки соответствующие нашему регулярному выражению
+
+            #endregion
+
+            #region Collect Sentences
+
+            //Create Lists of sentences
+            List<string> enSents = new List<string>();
+            List<string> ruSents = new List<string>();
+
+            foreach (Match match in enMatches)
+            {
+                if (isSentence(match.ToString()))
+                {
+                    enSents.Add(match.ToString());
+                }
+            }
+
+            foreach (Match match in ruMatches)
+            {
+                if (isSentence(match.ToString()))
+                {
+                    ruSents.Add(match.ToString());
+                }
+            }
+
+
+            #endregion
+
+            #region Save Sentences in DB
+
+           
+            var SentencesList = (from Pair in db.Sentences select Pair).ToList(); // считываем список пар предложений в БД
+
+
+
+            Sentences newPair;// Создаем заготовку для вносимой пары
+
+
+            for (int i = 0; i < enSents.Count(); ++i)
+            {
+                newPair = db.Sentences.Create(); // Создаем заготовку для вносимой пары
+
+                // Заполняем поля заготовки для нового патента :
+                newPair.Id = SentencesList.Count() + i + 1;
+                newPair.ENSentence = enSents[i];
+                newPair.RUSentence = ruSents[i];
+
+
+                db.Sentences.Add(newPair); // добавляем новый патент в БД
+                db.SaveChanges(); // Сохраняем внесенне изменения БД
+            }
+
+
+
+            #endregion
+        }
+
+        /// <summary>
+        /// Parses all patents from "in" directory into DB
+        /// </summary>
+        public static void parseAllInDB(string in_dirName)
+        {
+            //Get paths
+
+            string path_in; //IN folder path
+            string path_cur; //path to app's working directory
+
+            path_cur = Directory.GetCurrentDirectory();
+
+            path_in = path_cur + "\\" + in_dirName;
+           
+
+
+            // Parse files from "IN" directory
+
+            string[] files_IN;
+            files_IN = Directory.GetFiles(path_in);
+
+            string pat_label;
+            string pat_code;
+            string enPatentFileName;
+            string ruPatentFileName;
+            foreach (string pat_path in files_IN)
+            {
+                pat_label = pat_path.Substring(pat_path.Length - 6, 2);
+                if (pat_label == "EN")
+                {
+                    enPatentFileName = pat_path; // got Engliush patent
+
+                    //Find Russian "brother" for English patent
+                    //pat_code = pat_path.Substring(pat_path.Length - 19, 12);
+                    ruPatentFileName = pat_path.Substring(0, pat_path.Length - 6) + "RU.txt";
+
+                    parseTwoInDB(enPatentFileName, ruPatentFileName);
+
+                    ;
+                }
+            }
+
+
+            ;
+
+        }
+
+
 
         #region Cleaning
 

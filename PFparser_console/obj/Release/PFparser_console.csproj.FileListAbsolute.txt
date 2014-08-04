@@ -3,4 +3,8 @@ C:\Users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_
 C:\Users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\bin\Release\PFparser_console.pdb
 C:\Users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\obj\Release\PFparser_console.exe
 C:\Users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\obj\Release\PFparser_console.pdb
-C:\Users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\obj\Release\PFparser_console.csprojResolveAssemblyReference.cache
+C:\Users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\bin\Release\Database1.mdf
+C:\Users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\bin\Release\Database1_log.ldf
+C:\Users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\bin\Release\EntityFramework.dll
+C:\Users\nvn777\documents\visual studio 2012\Projects\PFparser_console\PFparser_console\bin\Release\EntityFramework.xml
+c:\Users\nvn777\Documents\Visual Studio 2012\Projects\PFparser_console\PFparser_console\obj\Release\PFparser_console.csprojResolveAssemblyReference.cache

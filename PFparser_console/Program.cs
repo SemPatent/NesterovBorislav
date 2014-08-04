@@ -22,20 +22,38 @@ namespace PFparser_console
 
             #endregion 
 
-            #region For many files
+            #region For many files (to one file)
 
             
             
+            //string in_dirName = "IN";
+            //string out_dirName = "OUT";
+            //string outputFileName = "output.txt";
+
+
+            //PatentParser.parseAllInOne(in_dirName, out_dirName, outputFileName);
+
+            //;
+
+            
+
+
+
+            #endregion
+
+            #region For many files (to DB)
+
+
+
             string in_dirName = "IN";
-            string out_dirName = "OUT";
-            string outputFileName = "output.txt";
+            
 
 
-            PatentParser.parseAllInOne(in_dirName, out_dirName, outputFileName);
+            PatentParser.parseAllInDB(in_dirName);
 
             ;
 
-            
+
 
 
 
